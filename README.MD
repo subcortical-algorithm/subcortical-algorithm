@@ -15,7 +15,7 @@ Our model consists of a reservoir network and a decision-making circuitry.
 
 2) Clone this repo
 ```
-git clone https://github.com/charlielam0615/subcortical.git
+git clone https://github.com/subcortical-algorithm/subcortical-algorithm.git
 cd subcortical
 ```
 
@@ -55,4 +55,4 @@ This will evaluate the algorithm performance on N selected subjects, with N=5, 1
 
 [5] Cayco-Gajic, N. A., & Silver, R. A. (2019). Re-evaluating circuit mechanisms underlying pattern separation. *Neuron*, *101*(4), 584-602.
 
-[6] Lukoševičius, M., & Jaeger, H. (2009). Reservoir computing approaches to recurrent neural network training. *Computer Science Review*, *3*(3), 127-149.
+[6] Lukoševičius, M., & Jaeger, H. (2009). Reservoir computing approaches to recurrent neural network training. *Computer Science Review*, *3*(3), 127-149.
